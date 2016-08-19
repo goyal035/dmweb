@@ -1,0 +1,17 @@
+.error{
+	color:red !important;
+	border:1px solid #dd4b39 !important;
+}
+.form-error{
+	border:1px solid #dd4b39 !important;
+}
+
+.form-success{
+	border:1px solid green !important;
+}
+tfoot {
+   display: table-header-group !important;
+}
+.error-message{
+	color:red !important;
+}

@@ -1,0 +1,7 @@
+User
+Add/remove instructor from favourites should be afterlogin
+Limit to future booking (30,40,60 days etc)
+Update user’s booking credit balance (what its mean ? )
+Driver Inbox message
+Does Driver calender only show appintment date and block button meaning.
+
